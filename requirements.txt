@@ -1,0 +1,9 @@
+torch
+diffusers
+transformers
+accelerate
+xformers
+opencv-python
+imageio
+einops
+Pillow
